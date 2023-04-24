@@ -17,7 +17,7 @@ My motivation for this project was to build a api back end server that I can dis
 ## Usage
 
 A video of the working program.
-![](/assets/demo-vid.webm)
+![link](/assets/demo-vid.webm)
 
 
 ## Badges
